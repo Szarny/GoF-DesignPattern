@@ -1,1 +1,1 @@
-# GoF-DesignPattern
+# GoF-DesignPattern-by-TS
